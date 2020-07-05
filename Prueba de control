@@ -1,5 +1,5 @@
 Estudiante: Rommel Guilcaso, Jhomara Zapata, Danilo Noroña.
-Fecha de entrega: 29/06/2020
+Fecha de entrega: 05/07/2020
 Tema: Métricas.
 Paralelo: A.
 
@@ -101,8 +101,6 @@ Información
 	Comportamiento de clases de análisis
 	Análisis de la realización de los casos de uso
 
- 
-
 •	Objetivo:
  
 DSI: Diseño del Sistema de Información
@@ -146,7 +144,6 @@ CSI: Codificación del Sistema de Información
 	Resultado de las pruebas unitarias
 	Evaluación del resultado de las pruebas de integración – Evaluación del resultado de las pruebas del sistema – Producto software:
 •	Código fuente de los componentes
- 
 •	Procedimientos de operación y administración del sistema
 •	Procedimientos de seguridad y control de acceso
 •	Manuales de usuario
@@ -170,7 +167,6 @@ Productos:
 	Acuerdo de nivel de servicio del sistema
 	Sistema en producción
 
-
 MSI: Mantenimiento de Sistemas de
 Información
 •	Objetivo:
@@ -183,7 +179,6 @@ Información
 	Propuesta de solución
 	Análisis de impacto de los cambios
 	Plan de acción para la modificación
- 
 	Plan de pruebas de regresión
 	Evaluación del cambio
 	Evaluación del resultado de las pruebas de regresión
