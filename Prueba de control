@@ -1,0 +1,196 @@
+Estudiante: Rommel Guilcaso, Jhomara Zapata, Danilo Noroña.
+Fecha de entrega: 29/06/2020
+Tema: Métricas.
+Paralelo: A.
+
+TAREA 11
+Metodología Métrica v. 3.0
+La metodología Métrica Versión 3 ofrece a las Organizaciones un instrumento útil para la sistematización de las actividades que dan soporte al ciclo de vida del software dentro del marco que permite alcanzar los siguientes objetivos:
+
+•	Proporcionar o definir Sistemas de Información que ayuden a conseguir los fines de la Organización mediante la definición de un marco estratégico para el desarrollo de estos.
+•	Dotar a la Organización el software que satisfagan las necesidades de los usuarios dando una mayor importancia al análisis de requisitos.
+•	Mejorar la productividad de los departamentos de Sistemas y Tecnologías de la Información y las Comunicaciones, permitiendo una mayor capacidad de  adaptación a los cambios y teniendo en cuenta la reutilización en la medida de lo posible.
+•	Facilitar la comunicación y entendimiento entre los distintos participantes en la producción de software a lo largo del ciclo de vida del proyecto, teniendo en cuenta su papel y responsabilidad, así como las necesidades de todos y cada uno de ellos.
+•	Facilitar la operación, mantenimiento y uso de los productos software obtenido.
+PSI: Planificación de sistemas de información
+•	Desarrollo de sistemas de información
+	Estudio de Viabilidad del Sistema (EVS)
+	Análisis del Sistema de Información (ASI)
+	Diseño del Sistema de Información (DSI)
+	Construcción del Sistema de Información (CSI)
+	Implantación y Aceptación del Sistema (IAS)
+•	Mantenimiento de Sistemas de Información (MSI)
+Estructura de los procesos
+•	Descomposición en actividades, y cada actividad en tareas
+•	El orden asignado a las actividades no debe ser interpretado como secuencia en su realización
+ 
+•	No obstante, un proceso se termina al terminar todas sus actividades
+Planificación de Sistemas de Información
+•	Objetivo:
+	Orientar las actuaciones en materia del desarrollo de Sistemas de Información
+•	Productos que se obtienen:
+	Catálogo de requisitos (a partir del estudio de la situación actual, del diagnóstico de la situación y de las necesidades de información de los procesos de la organización afectados por el “plan de sistemas”)
+	Arquitectura de información
+	Plan de acción para los próximos años
+
+Desarrollo de Sistemas de Información
+•	Basado en el Proceso de Desarrollo de ISO/IEC
+•	12207
+•	Aborda desarrollo estructurado (datos + procesos) y desarrollo orientado a objetos (UML 1.2)
+Requisitos.
+
+•	Objetivo:
+	Analizar un conjunto concreto de necesidades con la idea de proponer una solución a corto plazo, teniendo en cuenta aspectos económicos, técnicos, legales y operativos.
+	Permitir tomar la decisión de continuar con el proyecto o abandonarlo.
+•	Proceso obligatorio
+•	Se analizan diferentes alternativas (p.ej.: desarrollo a medida, comprar, mixtas) y se escoge una
+•	Productos que se obtienen:
+	Contexto del sistema
+	Impacto de la solución en la organización
+	Coste/beneficio de la solución
+	Valoración de riesgos de la solución
+	Plan de trabajo
+	Solución propuesta (continúa):
+•	Descripción
+•	Modelo de descomposición en subsistemas
+•	Matriz de procesos y localización geográfica • Matriz de datos y localización geográfica
+	Solución propuesta (continuación):
+•	Entorno tecnológico y comunicaciones
+•	Estrategia de implantación global
+•	Descripción de procesos manuales
+Si la alternativa seleccionada incluye desarrollo:
+•	Modelo abstracto de datos y modelo de procesos
+•	Modelo de negocio y modelo de dominio
+Si la alternativa seleccionada incluye un producto del mercado:
+ 
+•	Descripción del producto
+•	Evolución del producto
+•	Costes ocasionados
+•	Estándares del producto
+•	Descripción de la adaptación (si es necesaria)
+Información
+•	Qué se hace:
+	Descripción del Sistema de Información a partir del EVS
+	Recolección detallada de requisitos funcionales
+	Identificación de requisitos no funcionales
+	Elaboración de modelos de “Casos de uso” (para OO) o de Datos y Procesos (para estructurado)
+	Definición de los interfaces de usuario
+	Finalmente, se analiza la consistencia de todo esto
+•	Se destaca la importancia de la participación de los usuarios
+Información
+•	Productos generales:
+•	En estructurado:
+	Descripción general del entorno tecnológico
+	Plan de migración y carga
+	Glosario de términos inicial de datos
+	Catálogo de normas
+	Contexto del sistema
+	Catálogo de requisitos
+	Matriz de
+	Especificación de interfaz de usuario procesos/localización
+•	En OO: geográfica
+	Modelo de negocio/modelo de dominio
+	Descripción de interfaz con
+	Modelo de casos de usootros sistemas
+	Especificación de casos de uso
+	Modelo de procesos
+	Descripción de subsistemas de análisis
+	Modelo lógico de datos
+	Descripción de interfaces entre subsistemas normalizado
+	Modelo de clases de análisis
+	Comportamiento de clases de análisis
+	Análisis de la realización de los casos de uso
+
+ 
+
+•	Objetivo:
+ 
+DSI: Diseño del Sistema de Información
+ 
+	Obtener la definición de la arquitectura del sistema y del entorno tecnológico que le va a dar soporte, junto con la especificación detallada de los componentes del sistema de información.
+ 
+•	Hay dos bloques de actividades que pueden desarrollarse en paralelo.
+•	Al finalizar el proceso, se verifica y valida
+•	Productos generales del Bloque 1:
+	Catálogo de requisitos (se completa)
+	Catálogo de excepciones
+	Catálogo de normas para el diseño y construcción
+	Diseño de la arquitectura del sistema
+	Entorno tecnológico del sistema
+	Procedimientos de operación y administración del sistema
+	Procedimientos de seguridad y control de acceso
+	Diseño detallado de los subsistemas de soporte
+	Modelo físico de datos optimizado
+	Asignación de esquemas físicos de datos a nodos
+•	Además, si es estructurado:
+•	Además, si es OO:
+	Diseño de la arquitectura modular
+	Diseño de la realización de los casos
+	Diseño de interfaz de usuario de uso
+	Modelo de clases de diseño
+	Comportamiento de clases de diseño
+	Diseño de interfaz de usuario
+•	Productos del Bloque 2:
+	Especificaciones de los componentes del sistema: módulos o clases y de las estructuras de datos
+	Procedimientos de migración
+	Especificación y revisión del Plan de pruebas
+	Catálogo de excepciones
+	Especificación de requisitos de implantación
+CSI: Codificación del Sistema de Información
+•	Objetivo:
+	Construir y probar los distintos componentes del Sistema de Información a partir del conjunto de especificaciones lógicas y físicas del mismo (obtenidas en el proceso anterior, DSI)
+	Desarrollar procedimientos de operación y seguridad
+	Redactar manuales de usuario y de explotación
+CSI: Codificación del Sistema de Información
+•	Productos:
+	Resultado de las pruebas unitarias
+	Evaluación del resultado de las pruebas de integración – Evaluación del resultado de las pruebas del sistema – Producto software:
+•	Código fuente de los componentes
+ 
+•	Procedimientos de operación y administración del sistema
+•	Procedimientos de seguridad y control de acceso
+•	Manuales de usuario
+	Especificación de la formación a usuarios finales
+	Código fuente de los componentes de migración y carga inicial de datos
+	Procedimientos de migración y carga inicial de datos
+	Evaluación del resultado de las pruebas de migración y carga inicial de datos
+Prueba.
+•	Objetivos:
+	Entrega y aceptación del sistema en su totalidad (puede comprender varios sistemas de información desarrollados de manera independiente, según se estableció en el proceso de Estudio de Viabilidad del Sistema)
+	Llevar a cabo las actividades oportunas para el paso a producción del sistema.
+•	El sistema se somete a las Pruebas de aceptación
+IAS: Implantación y Aceptación del Sistema
+Productos:
+	Plan de implantación del sistema en su totalidad
+	Equipo de implantación que realizará la implantación
+	Plan de formación del equipo de implantación (esquema, materiales, recursos necesarios, planificación y especificación de la formación a usuarios finales)
+	Evaluación de las pruebas de implantación del sistema por parte del usuario de operación
+	Evaluación de las pruebas de aceptación del sistema por parte del usuario final
+	Plan de mantenimiento previo al paso a producción
+	Acuerdo de nivel de servicio del sistema
+	Sistema en producción
+
+
+MSI: Mantenimiento de Sistemas de
+Información
+•	Objetivo:
+	Obtener una nueva versión de un SI desarrollado con Métrica, a partir de las peticiones de mantenimiento que los usuarios realizan con motivo de un problema detectado en el sistema (correctivo) o por la necesidad de una mejora de este (perfectivo).
+MSI: Mantenimiento de Sistemas de
+Información
+•	Productos:
+	Catálogo de peticiones de cambio
+	Resultado del estudio de la petición
+	Propuesta de solución
+	Análisis de impacto de los cambios
+	Plan de acción para la modificación
+ 
+	Plan de pruebas de regresión
+	Evaluación del cambio
+	Evaluación del resultado de las pruebas de regresión
+
+Procesos con los que se establece interfaz
+•	Gestión de proyectos: se realiza en paralelo a los procesos principales
+•	Seguridad
+•	Gestión de configuración
+•	Aseguramiento de la calidad
+Ejemplo: ASI Ejemplo: ASI
